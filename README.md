@@ -17,4 +17,4 @@ I'm the main contributor for all bundles in [Lexik](https://github.com/lexik)
 
 ```
 
-[morpheus](https://i.imgur.com/sQV6A0P.gif)
+![morpheus](https://i.imgur.com/sQV6A0P.gif)
