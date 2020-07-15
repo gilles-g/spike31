@@ -13,6 +13,6 @@ remove reactjs, angular from 'not_any_more.com'
 
 I'm a french developer
 
-I'm the main contributor for all bundles in [https://github.com/lexik](https://github.com/lexik)
+I'm the main contributor for all bundles in [Lexik](https://github.com/lexik)
 
 ```
