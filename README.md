@@ -11,15 +11,10 @@ import open_source from 'github.com'
 
 remove reactjs, angular from 'not_any_more.com'
 
-while currentJob == 'developer'
-    
+while true
+  if currentJob != 'developer'
+    break
 ```
-
-I'm a french developer
-
-I'm the main contributor for all bundles in [Lexik](https://github.com/lexik)
-
-I like to take on new challenges
 
 After almost 10 years doing Symfony, I had time to see my priorities evolve on the development of a project.
 
@@ -38,5 +33,9 @@ Those that work best are those where we took the time to analyze the client's ne
 In the end it is so simple to write complex projects if we remove the pieces that cause us problems.
 
 Write pure PHP code, forget about your framework, add unit test and ask  for help
+
+My name is Gilles and I'm a french developer
+
+I'm the main contributor for all bundles in [Lexik](https://github.com/lexik)
 
 ![george](https://i.giphy.com/media/XzuRo6oNqFDOg/giphy.webp)
